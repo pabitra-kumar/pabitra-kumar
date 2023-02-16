@@ -10,7 +10,7 @@
     
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pabitra-kumar&theme=radical)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabitra-kumar&exclude_repo=Shpping-Site&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabitra-kumar&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Pabitra's GitHub stats](https://github-readme-stats.vercel.app/api?username=pabitra-kumar&show_icons=true&theme=radical)
 <!---
