@@ -1,7 +1,7 @@
 # 👋 Hi,
 ### I’m [@pabitra-kumar](https://github.com/pabitra-kumar)
 - 👀 I’m interested in *Web Devlopment*.
-- 🖥️ My websites are based on stacks like `html` , `css` , `javascript` , `reat.js` , `php` , `MySQL` .
+- 🖥️ My websites are based on stacks like  `reat.js` , `php` , `MySQL` , `Node.js` ,`Express` , `MongoDB` .
 - 💞️ I’m looking to collaborate on Website related feature devlopment.
 - 🌱 I’m currently learning `Django` and started participating in `Hackathons`.
 - 📫 How to reach me ...
