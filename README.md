@@ -4,7 +4,7 @@
 - 👨‍💻 My Programming languages are `Java` , `JavaScript` , `PHP` , `Python` , `SQL` 
 - 🖥️ My websites are based on stacks like  `reat.js` , `Flask` , `MySQL` , `Node.js` ,`Express` , `MongoDB` .
 - 💞️ I’m looking to collaborate on Website related feature devlopment.
-- 🌱 I’m currently the Winner of `MLH` `Starus Code 0`.
+- 🌱 I’m currently the Winner of `MLH` `Status Code 0`.
 - 📫 How to reach me ...
     - Email: [pabitrakumarbebartta@gmail.com](mailto:pabitrakumarbebartta@gmail.com)
     
