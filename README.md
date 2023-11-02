@@ -81,6 +81,8 @@
   <img src="https://profile-counter.glitch.me/pabitra-kumar/count.svg" />
 </div>
 
+[![An image of @pabitrakumar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pabitrakumar)](https://holopin.io/@pabitrakumar)
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pabitra-kumar&theme=onedark&&bg_color=eee8d5&&row=2&column=7&&center" width="99%" alt="github-trophy" />
 </p>
