@@ -87,6 +87,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=pabitra-kumar&theme=onedark&&bg_color=eee8d5&&row=2&column=7&&center" width="99%" alt="github-trophy" />
 </p>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/pabitrakumar00"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Aankirz7" /></a></p><br><br>
+
 <!---
 pabitra-kumar/pabitra-kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
