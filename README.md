@@ -1,8 +1,8 @@
 # 👋 Hi,
 ### I’m [@pabitra-kumar](https://github.com/pabitra-kumar)
 - 👀 I’m interested in *Web Devlopment*.
-- 👨‍💻 My Programming languages are `Java` , `JavaScript` , `PHP` , `Python` , `SQL` 
-- 🖥️ My websites are based on stacks like  `reat.js` , `Flask` , `MySQL` , `Node.js` ,`Express` , `MongoDB` .
+- 👨‍💻 My Programming languages are `Java` , `JavaScript` , `TypeScript` , `PHP` , `SQL` 
+- 🖥️ My websites are based on stacks like  `react.js` , `Next.js` , `Node.js` ,`Express` , `MongoDB` , `MySQL` .
 - 💞️ I’m looking to collaborate on Website related feature devlopment.
 - 🌱 I’m currently the Winner of `MLH` `Status Code 0`.
 - 📫 How to reach me ...
