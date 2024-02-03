@@ -1,22 +1,40 @@
-# 👋 Hi,
+
+<div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color36BCF7FF&background=FFD22800&center=true&vCenter=true&width=850&lines=Hello,+I'm+Pabitra+Ku.+Bebartta,+Welcome+to+My+Profile!+;I+am+an+aspiring+full-stack+ developer+;Always+learning+new+things" alt="Typing SVG" /></a>
+<br />
+
+--- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pabitra-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="theajayrawat" /> </p>
+
+<div style="display:flex">
+  <img align="right" alt="coding_img" width="200" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
+
 ### I’m [@pabitra-kumar](https://github.com/pabitra-kumar)
-- 👀 I’m interested in *Web Devlopment*.
-- 👨‍💻 My Programming languages are `Java` , `JavaScript` , `TypeScript` , `PHP` , `SQL` 
-- 🖥️ My websites are based on stacks like  `react.js` , `Next.js` , `Node.js` ,`Express` , `MongoDB` , `MySQL` .
+- 👀 I’m interested in *Software Devlopment and It's Life Cycle*.
 - 💞️ I’m looking to collaborate on Website related feature devlopment.
 - 🌱 I’m currently the Winner of `MLH` `Status Code 0`.
 - 📫 How to reach me ...
     - Email: [pabitrakumarbebartta@gmail.com](mailto:pabitrakumarbebartta@gmail.com)
     - Linktree: [linktr.ee/pabitra_kumar](https://linktr.ee/pabitra_kumar)
+
+</div>
+
+---
     
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pabitra-kumar&theme=radical)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabitra-kumar&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Pabitra's GitHub stats](https://github-readme-stats.vercel.app/api?username=pabitra-kumar&show_icons=true&theme=radical) -->
+<div>
 
-## Technologies:
-
+### Technologies:
+<div>
+    <p align="center"> 
+      <img src="https://skillicons.dev/icons?i=nodejs,express,ts,js,react,next,redux,git,jest,tailwind,bootstrap,php,java,mongodb,mysql&perline=8">
+    </p>
+</div>
+</div>
 
 ## OpenSource:
 
