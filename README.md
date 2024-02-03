@@ -26,14 +26,36 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabitra-kumar&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Pabitra's GitHub stats](https://github-readme-stats.vercel.app/api?username=pabitra-kumar&show_icons=true&theme=radical) -->
-<div>
 
-### Technologies:
+<h2>Social Info :</h2>
+
+<div id="badges">
+    <a href="https://www.linkedin.com/in/pabitra-kumar/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:pabitrakumarbebartta@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+</div>
+
+---
+
+<h2>Coding Platform :</h2>
+
+<div id="badges">
+    <a href="https://leetcode.com/pabitra_kumar">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Badge"/>
+    </a>
+    <a href="https://auth.geeksforgeeks.org/user/pabitra_kumar">
+    <img src="https://img.shields.io/badge/GeeksForGeeks-darkgreen?style=for-the-badge&logo=GeeksForGeeks&logoColor=white" alt="GeeksForGeeks Badge"/>
+    </a>
+</div>
+
+<h2>Tech Stack :</h2>
 <div>
     <p align="center"> 
       <img src="https://skillicons.dev/icons?i=nodejs,express,ts,js,react,next,redux,git,jest,tailwind,bootstrap,php,java,mongodb,mysql&perline=8">
     </p>
-</div>
 </div>
 
 ## OpenSource:
