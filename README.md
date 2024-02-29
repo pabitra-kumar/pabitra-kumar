@@ -4,7 +4,7 @@
 <br />
 
 --- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pabitra-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="theajayrawat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pabitra-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="@pabitra-kumar" /> </p>
 
 <div style="display:flex">
   <img align="right" alt="coding_img" width="200" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
