@@ -10,9 +10,9 @@
   <img align="right" alt="coding_img" width="200" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
 ### I’m [@pabitra-kumar](https://github.com/pabitra-kumar)
-- 👀 I’m interested in *Software Devlopment and It's Life Cycle*.
+- 👀 I’m interested in *Software Devlopment*.
 - 💞️ I’m looking to collaborate on Website related feature devlopment.
-- 🌱 I’m currently the Winner of `MLH` `Status Code 0`.
+- 🌱 I’m currently the Winner of **MLH Status Code 0** Hackathon.
 - 📫 How to reach me ...
     - Email: [pabitrakumarbebartta@gmail.com](mailto:pabitrakumarbebartta@gmail.com)
     - Linktree: [linktr.ee/pabitra_kumar](https://linktr.ee/pabitra_kumar)
@@ -30,6 +30,9 @@
 <h2>Social Info :</h2>
 
 <div id="badges">
+    <a href="https://linktr.ee/pabitra_kumar">
+    <img src="https://img.shields.io/badge/LinkTree-white?style=for-the-badge&logo=linktree&logoColor=green" alt="Link-tree Badge"/>
+    </a>
     <a href="https://www.linkedin.com/in/pabitra-kumar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -49,12 +52,15 @@
     <a href="https://auth.geeksforgeeks.org/user/pabitra_kumar">
     <img src="https://img.shields.io/badge/GeeksForGeeks-darkgreen?style=for-the-badge&logo=GeeksForGeeks&logoColor=white" alt="GeeksForGeeks Badge"/>
     </a>
+    <a href="https://auth.geeksforgeeks.org/user/pabitra_kumar">
+    <img src="https://img.shields.io/badge/codechef-24140a?style=for-the-badge&logo=codechef&logoColor=white" alt="Codechef Badge"/>
+    </a>
 </div>
 
 <h2>Tech Stack :</h2>
 <div>
     <p align="center"> 
-      <img src="https://skillicons.dev/icons?i=next,react,nodejs,express,next,redux,git,tailwind,bootstrap,mongodb,mysql,ts,js,java&perline=8">
+      <img src="https://skillicons.dev/icons?i=next,react,nodejs,express,redux,git,tailwind,bootstrap,mongodb,mysql,ts,js,java&perline=8">
     </p>
 </div>
 
@@ -112,7 +118,7 @@
 
 
 
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source 
       srcset="https://github-readme-activity-graph.vercel.app/graph?username=pabitra-kumar&bg_color=ffffff00&color=fdf6e3&area_color=758bA3&line=2aa198&point=6c71c4&area=true&radius=16"
@@ -125,21 +131,22 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=pabitra-kumar&bg_color=eee8d5&color=586e75&area_color=657b83&line=2aa198&point=6c71c4&area=true&hide_border=true" width="95%" alt="github-graph" />
     
   </picture>
-</p>
-
-<div align="center"> 
-  Visitors count:<br>
-  <img src="https://profile-counter.glitch.me/pabitra-kumar/count.svg" />
-</div>
+</p> -->
 
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pabitra-kumar&theme=onedark&&bg_color=eee8d5&&row=2&column=7&&center" width="99%" alt="github-trophy" />
-</p>
+</p> -->
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/pabitrakumar00"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Aankirz7" /></a></p><br><br>
+
+<div> 
+  <br />
+  <h4 > Visitors count: <h4 />
+  <img src="https://profile-counter.glitch.me/pabitra-kumar/count.svg" />
+</div>
 
 <!---
 pabitra-kumar/pabitra-kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
