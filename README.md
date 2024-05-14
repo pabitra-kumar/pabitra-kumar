@@ -11,7 +11,7 @@
 
 ### I’m [@pabitra-kumar](https://github.com/pabitra-kumar)
 - 👀 I’m interested in *Software Devlopment*.
-- 💞️ I’m looking to collaborate on Website related feature devlopment.
+- 💞️ I’m looking to collaborate on OpenSource Softwares.
 - 🌱 I’m currently the Winner of **MLH Status Code 0** Hackathon.
 - 📫 How to reach me ...
     - Email: [pabitrakumarbebartta@gmail.com](mailto:pabitrakumarbebartta@gmail.com)
