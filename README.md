@@ -1,6 +1,6 @@
 
 <div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color36BCF7FF&background=FFD22800&center=true&vCenter=true&width=850&lines=Hello,+I'm+Pabitra+Ku.+Bebartta,+Welcome+to+My+Profile!+;I+am+an+aspiring+full-stack+ developer+;Always+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color36BCF7FF&background=FFD22800&center=true&vCenter=true&width=850&lines=Hello,+I'm+Pabitra+Ku.+Bebartta,+Welcome+to+My+Profile!+;I+am+an+aspiring+Software+Developer+;Always+learning+new+things.." alt="Typing SVG" /></a>
 <br />
 
 --- 
@@ -60,7 +60,7 @@
 <h2>Tech Stack :</h2>
 <div>
     <p align="center"> 
-      <img src="https://skillicons.dev/icons?i=next,react,nodejs,express,redux,git,tailwind,bootstrap,mongodb,mysql,ts,js,java&perline=8">
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,next,react,nodejs,express,redux,java,spring,git,mongodb,mysql&perline=8">
     </p>
 </div>
 
