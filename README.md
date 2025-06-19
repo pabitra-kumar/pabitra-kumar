@@ -10,8 +10,8 @@
   <img align="right" alt="coding_img" width="200" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
 ### I’m [@pabitra-kumar](https://github.com/pabitra-kumar)
-- 👀 I’m interested in *Software Devlopment*.
-- 💞️ I’m looking to collaborate on OpenSource Softwares.
+- 👀 I’m interested in *Full Stack Web and Android Development*.
+- 💞️ I’m looking to collaborate on Your Projects.
 - 🌱 I’m currently the Winner of **MLH Status Code 0** Hackathon.
 - 📫 How to reach me ...
     - Email: [pabitrakumarbebartta@gmail.com](mailto:pabitrakumarbebartta@gmail.com)
